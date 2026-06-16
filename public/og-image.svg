@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A1628"/>
+      <stop offset="65%" stop-color="#0E4D6E"/>
+      <stop offset="100%" stop-color="#065F7C"/>
+    </linearGradient>
+    <linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#12B8C4" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#065F7C" stop-opacity="0.95"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="0" y="290" width="1200" height="340" fill="url(#water)"/>
+  <line x1="200" y1="290" x2="200" y2="630" stroke="#FFD700" stroke-width="2" stroke-opacity="0.35"/>
+  <line x1="400" y1="290" x2="400" y2="630" stroke="#FFD700" stroke-width="2" stroke-opacity="0.35"/>
+  <line x1="600" y1="290" x2="600" y2="630" stroke="#FFD700" stroke-width="2" stroke-opacity="0.35"/>
+  <line x1="800" y1="290" x2="800" y2="630" stroke="#FFD700" stroke-width="2" stroke-opacity="0.35"/>
+  <line x1="1000" y1="290" x2="1000" y2="630" stroke="#FFD700" stroke-width="2" stroke-opacity="0.35"/>
+  <path d="M0 305 Q150 290 300 305 Q450 320 600 305 Q750 290 900 305 Q1050 320 1200 305 L1200 290 L0 290 Z" fill="#7DD8E0" fill-opacity="0.45"/>
+  <path d="M0 318 Q200 303 400 318 Q600 333 800 318 Q1000 303 1200 318 L1200 300 L0 300 Z" fill="#FFFFFF" fill-opacity="0.15"/>
+  <text x="600" y="160" font-family="system-ui, sans-serif" font-size="88" font-weight="800" fill="#FFFFFF" text-anchor="middle" opacity="0.97">Oro Azul</text>
+  <text x="600" y="220" font-family="system-ui, sans-serif" font-size="26" font-weight="400" fill="#7DD8E0" text-anchor="middle" letter-spacing="6">NATATORIO · BUENOS AIRES</text>
+  <text x="600" y="455" font-family="system-ui, sans-serif" font-size="28" font-weight="500" fill="#FFFFFF" text-anchor="middle" opacity="0.92">Aprendé a nadar toda tu vida</text>
+  <text x="600" y="500" font-family="system-ui, sans-serif" font-size="21" font-weight="400" fill="#7DD8E0" text-anchor="middle">Clases para todas las edades · Rehabilitación acuática · AquaGym</text>
+</svg>
