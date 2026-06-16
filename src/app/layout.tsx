@@ -2,7 +2,7 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://oroazul.maat.work'),
+  metadataBase: new URL('https://oro-azul-landing.vercel.app'),
   title: 'Oro Azul | Clases de Natación',
   description:
     'Aprendé a nadar toda tu vida. Clases de natación para todas las edades, rehabilitación acuática y actividades recreativas en un ambiente seguro y profesional.',
@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       'Aprendé a nadar toda tu vida. Clases de natación para todas las edades.',
     type: 'website',
     locale: 'es_AR',
-    url: 'https://oroazul.maat.work',
+    url: 'https://oro-azul-landing.vercel.app',
     siteName: 'Oro Azul Natatorio',
     images: [
       {
@@ -56,7 +56,7 @@ export default function RootLayout({
     <html lang="es">
       <head>
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, viewport-fit=cover" />
-        <link rel="canonical" href="https://oroazul.maat.work" />
+        <link rel="canonical" href="https://oro-azul-landing.vercel.app" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
