@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     siteName: 'Oro Azul Natatorio',
     images: [
       {
-        url: '/og-image.svg',
+        url: '/og-image.png',
         width: 1200,
         height: 630,
         alt: 'Oro Azul Natatorio — Clases de natación en Buenos Aires',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Oro Azul | Clases de Natación',
     description: 'Aprendé a nadar toda tu vida.',
-    images: ['/og-image.svg'],
+    images: ['/og-image.png'],
   },
   robots: {
     index: true,
